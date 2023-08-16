@@ -1,5 +1,5 @@
 // Import the Compromise library
-const nlp = require('compromise');
+import nlp from 'compromise';
 
 // Function to perform POS tagging and display results
 function analyzePosTags() {
